@@ -1,6 +1,8 @@
 import math
 
 
+//Author Alfin
+
 p = 11
 g = 7
 x =  4
